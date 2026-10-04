@@ -1,7 +1,7 @@
 Metric,Value
 Total Packets,20
-Accepted Packets,5
-Dropped Packets,15
-Total Bytes,10606
-Accepted Bytes,1941
-Drop Percentage,75.00
+Accepted Packets,7
+Dropped Packets,13
+Total Bytes,11378
+Accepted Bytes,3409
+Drop Percentage,65.00
